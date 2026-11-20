@@ -1,0 +1,13 @@
+# Arquivos que não sobem para a Vercel (o build usa só src/, public/, scripts/ e os arquivos de configuração)
+node_modules
+dist
+dist-ssr
+photos
+.claude
+.taste-skill
+*.log
+# chaves locais da Vercel: nunca sobem
+.env*
+.vercel
+# propostas e contratos (não vão para a Vercel)
+documentos

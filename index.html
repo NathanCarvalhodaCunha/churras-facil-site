@@ -1,0 +1,27 @@
+<!doctype html>
+<!--
+  force-motion: o site anima em qualquer computador, mesmo com "movimento reduzido" ligado no sistema
+  (Efeitos de animação desligados no Windows), a pedido da loja. Vale para o CSS e para o GSAP (src/lib/gsap.ts).
+  Para voltar a respeitar essa preferência, tire a classe force-motion daqui.
+-->
+<html lang="pt-BR" class="force-motion">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <script>
+      document.documentElement.classList.add('js');
+      try {
+        if (localStorage.getItem('cf-motion-paused') === '1') document.documentElement.classList.add('motion-paused');
+      } catch (e) {}
+    </script>
+    <!--site-head-->
+    <link rel="icon" href="/icon-192.png" type="image/png" sizes="192x192" />
+    <link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+  </head>
+  <body>
+    <div id="root"><!--app-html--></div>
+    <script type="module" src="/src/entry-client.tsx"></script>
+  </body>
+</html>

@@ -1,0 +1,363 @@
+{
+  "carne": {
+    "width": 1600,
+    "height": 1200,
+    "widths": [
+      400,
+      640,
+      960
+    ],
+    "color": "#080808",
+    "alt": "Espetinhos de carne grelhando na grelha"
+  },
+  "carvao": {
+    "width": 1800,
+    "height": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#787878",
+    "alt": "Pedaços de carvão vegetal"
+  },
+  "cebolas": {
+    "width": 1600,
+    "height": 1068,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#080808",
+    "alt": "Cebolas em um cesto"
+  },
+  "churrasqueiro": {
+    "width": 2000,
+    "height": 1125,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#181828",
+    "alt": "Churrasco sendo preparado na brasa"
+  },
+  "cta-brasa": {
+    "width": 2400,
+    "height": 1600,
+    "widths": [
+      768,
+      1280,
+      1920,
+      2400
+    ],
+    "color": "#080808",
+    "alt": "Espetos assando sobre brasas incandescentes"
+  },
+  "espetos-mesa": {
+    "width": 1800,
+    "height": 2700,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#080808",
+    "alt": "Espetinhos de carne e legumes grelhados servidos à mesa"
+  },
+  "grelha-pinca": {
+    "width": 1800,
+    "height": 2571,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#080808",
+    "alt": "Pinça virando carne sobre o carvão"
+  },
+  "hero-brasas": {
+    "width": 2400,
+    "height": 1600,
+    "widths": [
+      768,
+      1280,
+      1920,
+      2400
+    ],
+    "color": "#080808",
+    "alt": "Brasas de carvão acesas"
+  },
+  "kp-bovino": {
+    "width": 735,
+    "height": 551,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#f8f8e8",
+    "alt": "Espetinhos bovinos Kispeto"
+  },
+  "kp-coracao": {
+    "width": 735,
+    "height": 551,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#f8f8e8",
+    "alt": "Espetinhos de coração Kispeto"
+  },
+  "kp-cordeiro": {
+    "width": 735,
+    "height": 551,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#f8e8d8",
+    "alt": "Espetinhos de cordeiro Kispeto"
+  },
+  "kp-costela-bovina": {
+    "width": 735,
+    "height": 551,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#f8f8e8",
+    "alt": "Espetinhos de costela bovina Kispeto"
+  },
+  "kp-costelinha": {
+    "width": 735,
+    "height": 551,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#f8e8d8",
+    "alt": "Espetinhos de costelinha suína Kispeto"
+  },
+  "kp-coxa": {
+    "width": 735,
+    "height": 551,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#f8e8d8",
+    "alt": "Espetinhos de coxa de frango Kispeto"
+  },
+  "kp-kafta": {
+    "width": 735,
+    "height": 551,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#f8f8e8",
+    "alt": "Espetinhos de kafta Kispeto"
+  },
+  "kp-linguica-apimentada": {
+    "width": 735,
+    "height": 551,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#f8d8c8",
+    "alt": "Espetinhos de linguiça apimentada Kispeto"
+  },
+  "kp-peito": {
+    "width": 735,
+    "height": 551,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#f8e8d8",
+    "alt": "Espetinhos de peito de frango Kispeto"
+  },
+  "kp-salsichao": {
+    "width": 735,
+    "height": 551,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#f8e8e8",
+    "alt": "Espetinhos de salsichão Kispeto"
+  },
+  "kp-tulipa": {
+    "width": 735,
+    "height": 551,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#f8f8e8",
+    "alt": "Espetinhos de tulipa de frango Kispeto"
+  },
+  "kp-yakitori-bovino": {
+    "width": 735,
+    "height": 551,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#f8f8e8",
+    "alt": "Espetinhos de yakitori bovino Kispeto"
+  },
+  "kp-yakitori-frango": {
+    "width": 728,
+    "height": 546,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#f8e8c8",
+    "alt": "Espetinhos de yakitori de frango Kispeto"
+  },
+  "madeira": {
+    "width": 2400,
+    "height": 1600,
+    "widths": [
+      768,
+      1280,
+      1920,
+      2400
+    ],
+    "color": "#181818",
+    "alt": "Textura de madeira escura"
+  },
+  "pacotes": {
+    "width": 2400,
+    "height": 1347,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#787878",
+    "alt": "Dezenas de espetinhos assando na churrasqueira"
+  },
+  "pimentoes": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#080808",
+    "alt": "Pimentões vermelho, amarelo e verde"
+  },
+  "st-abacaxi-canela": {
+    "width": 960,
+    "height": 720,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#887888",
+    "alt": "Abacaxi fatiado em um prato"
+  },
+  "st-abobrinha-queijo-coalho": {
+    "width": 960,
+    "height": 720,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#080808",
+    "alt": "Fatias de abobrinha grelhadas"
+  },
+  "st-espeto-legumes": {
+    "width": 960,
+    "height": 720,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#282828",
+    "alt": "Espetinhos de legumes assando na grelha"
+  },
+  "st-kafta-queijo-bacon": {
+    "width": 960,
+    "height": 720,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#080808",
+    "alt": "Carne enrolada em bacon na grelha"
+  },
+  "st-medalhao-mandioca": {
+    "width": 960,
+    "height": 720,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#080808",
+    "alt": "Rolinhos enrolados em bacon"
+  },
+  "st-medalhao-provolone": {
+    "width": 960,
+    "height": 720,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#282828",
+    "alt": "Medalhões enrolados em bacon em uma travessa"
+  },
+  "st-medalhao-romeu-julieta": {
+    "width": 960,
+    "height": 720,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#d8e8e8",
+    "alt": "Medalhão enrolado em bacon servido no prato"
+  },
+  "st-mussarela-defumada": {
+    "width": 960,
+    "height": 720,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#383848",
+    "alt": "Queijo defumado (scamorza) cortado"
+  },
+  "st-pao-de-alho": {
+    "width": 960,
+    "height": 720,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#d8d8c8",
+    "alt": "Pão de alho tostado"
+  },
+  "st-queijo-coalho": {
+    "width": 960,
+    "height": 720,
+    "widths": [
+      160,
+      320
+    ],
+    "color": "#080808",
+    "alt": "Espetinhos de queijo coalho na grelha"
+  }
+}

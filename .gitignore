@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-ssr
+.taste-skill
+*.log
+.DS_Store
+
+.vercel
+.env*
+
+# documentos com dados pessoais (contrato, proposta, vídeos): ficam só neste computador
+documentos
+.claude
